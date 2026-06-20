@@ -1,4 +1,4 @@
-```
+
 # Arquitectura Institucional v1.0 — Plataforma Multiagente Financiera
 
 ## 1. Principios de Arquitectura
@@ -1015,4 +1015,4 @@ WhatsApp Gateway
 
 Y evolucionar a microservicios únicamente cuando existan problemas reales de escalabilidad. Esto reduce entre un 60% y un 70% la complejidad operativa inicial manteniendo la capacidad de crecimiento hacia una arquitectura institucional.
 
-```
+
