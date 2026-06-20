@@ -9,3 +9,4 @@
 - Antigravity
 - Nodejs
 - Microsoft Visual C++ [...] destistributable [...]
+- Termius
