@@ -1,0 +1,11 @@
+- Ollama
+- Python
+- WSL
+- Vscode
+- Git
+- Docker
+- Vagrant
+- Antigravity IDE
+- Antigravity
+- Nodejs
+- Microsoft Visual C++ [...] destistributable [...]
