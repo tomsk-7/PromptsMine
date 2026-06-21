@@ -20,6 +20,7 @@ Endless vertical runner
 Roguelite progression
 Bullet hell en 3D
 Skins de personjes
+Skins de mapas º
 
 MECÁNICA PRINCIPAL
 Movimiento en caída libre continua.
