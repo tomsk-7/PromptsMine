@@ -5,6 +5,7 @@ Debes diseñar un videojuego original en primera persona basado en la siguiente 
 CONCEPTO BASE
 El jugador inicia una caída libre desde gran altura dentro de un megatúnel vertical infinito.
 Los inicios de caida deben ser varias animaciones diferentes, emujones, resbalones, carreras hasta comenzar a caer.
+Los finales de caida (meta) deben ser diferentes por cada peronaje donde cada uno alcanza la meta con una animacion diferente.
 
 Durante la caída debe:
 Esquivar obstáculos a alta velocidad.
@@ -18,6 +19,7 @@ FPS (First Person Shooter)
 Endless vertical runner
 Roguelite progression
 Bullet hell en 3D
+Skins de personjes
 
 MECÁNICA PRINCIPAL
 Movimiento en caída libre continua.
